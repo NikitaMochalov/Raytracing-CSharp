@@ -1,0 +1,30 @@
+D:\3 курс, 2 семестр\комп граф\repos\ray-tracing-first-repo-master\RayTracingFirst\bin\Debug\RayTracingFirst.exe.config
+D:\3 курс, 2 семестр\комп граф\repos\ray-tracing-first-repo-master\RayTracingFirst\bin\Debug\RayTracingFirst.exe
+D:\3 курс, 2 семестр\комп граф\repos\ray-tracing-first-repo-master\RayTracingFirst\bin\Debug\RayTracingFirst.pdb
+D:\3 курс, 2 семестр\комп граф\repos\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.csprojAssemblyReference.cache
+D:\3 курс, 2 семестр\комп граф\repos\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.Form1.resources
+D:\3 курс, 2 семестр\комп граф\repos\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.Properties.Resources.resources
+D:\3 курс, 2 семестр\комп граф\repos\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.csproj.GenerateResource.cache
+D:\3 курс, 2 семестр\комп граф\repos\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.csproj.CoreCompileInputs.cache
+D:\3 курс, 2 семестр\комп граф\repos\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.exe
+D:\3 курс, 2 семестр\комп граф\repos\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.pdb
+F:\ray-tracing-first-repo-master\RayTracingFirst\bin\Debug\RayTracingFirst.exe.config
+F:\ray-tracing-first-repo-master\RayTracingFirst\bin\Debug\RayTracingFirst.exe
+F:\ray-tracing-first-repo-master\RayTracingFirst\bin\Debug\RayTracingFirst.pdb
+F:\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.csprojAssemblyReference.cache
+F:\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.Form1.resources
+F:\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.Properties.Resources.resources
+F:\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.csproj.GenerateResource.cache
+F:\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.csproj.CoreCompileInputs.cache
+F:\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.exe
+F:\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.pdb
+D:\3 курс, 2 семестр\ray-tracing-first-repo-master\RayTracingFirst\bin\Debug\RayTracingFirst.exe.config
+D:\3 курс, 2 семестр\ray-tracing-first-repo-master\RayTracingFirst\bin\Debug\RayTracingFirst.exe
+D:\3 курс, 2 семестр\ray-tracing-first-repo-master\RayTracingFirst\bin\Debug\RayTracingFirst.pdb
+D:\3 курс, 2 семестр\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.csprojAssemblyReference.cache
+D:\3 курс, 2 семестр\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.Form1.resources
+D:\3 курс, 2 семестр\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.Properties.Resources.resources
+D:\3 курс, 2 семестр\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.csproj.GenerateResource.cache
+D:\3 курс, 2 семестр\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.csproj.CoreCompileInputs.cache
+D:\3 курс, 2 семестр\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.exe
+D:\3 курс, 2 семестр\ray-tracing-first-repo-master\RayTracingFirst\obj\Debug\RayTracingFirst.pdb
